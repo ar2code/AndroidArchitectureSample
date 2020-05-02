@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Business-layer</string>
+    <string name="wrong_login_password">Wrong login or password</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="success_login">Hi %1$s, You are authorized! It is just a demo.</string>
+</resources>
